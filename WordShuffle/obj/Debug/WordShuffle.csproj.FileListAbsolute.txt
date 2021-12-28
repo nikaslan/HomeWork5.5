@@ -1,0 +1,7 @@
+C:\Users\User\source\repos\HomeWork5.5\WordShuffle\bin\Debug\WordShuffle.exe.config
+C:\Users\User\source\repos\HomeWork5.5\WordShuffle\bin\Debug\WordShuffle.exe
+C:\Users\User\source\repos\HomeWork5.5\WordShuffle\bin\Debug\WordShuffle.pdb
+C:\Users\User\source\repos\HomeWork5.5\WordShuffle\obj\Debug\WordShuffle.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\HomeWork5.5\WordShuffle\obj\Debug\WordShuffle.exe
+C:\Users\User\source\repos\HomeWork5.5\WordShuffle\obj\Debug\WordShuffle.pdb
+C:\Users\User\source\repos\HomeWork5.5\WordShuffle\obj\Debug\WordShuffle.csproj.AssemblyReference.cache

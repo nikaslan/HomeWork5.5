@@ -1,0 +1,7 @@
+C:\Users\User\source\repos\HomeWork5.5\HomeWork5.5\bin\Debug\HomeWork5.5.exe.config
+C:\Users\User\source\repos\HomeWork5.5\HomeWork5.5\bin\Debug\HomeWork5.5.exe
+C:\Users\User\source\repos\HomeWork5.5\HomeWork5.5\bin\Debug\HomeWork5.5.pdb
+C:\Users\User\source\repos\HomeWork5.5\HomeWork5.5\obj\Debug\StringToWords.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\HomeWork5.5\HomeWork5.5\obj\Debug\StringToWords.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\HomeWork5.5\HomeWork5.5\obj\Debug\HomeWork5.5.exe
+C:\Users\User\source\repos\HomeWork5.5\HomeWork5.5\obj\Debug\HomeWork5.5.pdb
